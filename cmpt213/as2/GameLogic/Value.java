@@ -1,0 +1,5 @@
+package ca.cmpt213.as2.GameLogic;
+
+public enum Value {
+		EMPTY, WALL, MOUSE, CAT, CHEESE, CAT_ON_CHEESE, DEAD_MOUSE, EMPTY_INVISIBLE, WALL_INVISIBLE
+}
